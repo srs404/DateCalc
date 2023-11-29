@@ -1,0 +1,33 @@
+.dateToday {
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.topParts {
+    border: 2px solid black;
+    background-color: beige;
+    padding: 10px;
+    margin: 0px;
+}
+
+.middlePart {
+    border: 2px solid black;
+    padding: 30px;
+    background-color:ghostwhite;
+}
+
+.bottomPart {
+    border: 2px solid black;
+    background-color: beige;
+    padding: 10px;
+    margin: 0px;
+}
+
+.addDays {
+    width: 200px;
+    height: 110px;
+    font-size: 40px;
+    text-align: center;
+}
